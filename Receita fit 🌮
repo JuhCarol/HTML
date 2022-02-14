@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+
+<html>
+  <div="aba">
+  <head>
+    <title> Receitas Fáceis </title>
+    </head>
+  </div>
+  
+  <div="titulo">
+    <header> <h1> BOLO DE LARANJA SEM AÇUCAR </h1> 
+    </header> 
+  </div>
+
+  <div="ingredientes">
+  <body>
+    <img src="https://img.itdg.com.br/tdg/images/recipes/000/013/953/323851/323851_original.jpg?mode=crop&width=710&height=400" width=300/>
+    
+    <h2> Ingredientes </h2>
+      <ul>
+        <li>Ovos - 3 unidades</li>
+        <li>Óleo de soja - 1 xícara (chá)</li>
+        <li>Farinha de trigo - 3 xícaras (chá) </li>
+        <li>Suco de laranja - 1/3 (chá)</li>
+        <li>Adoçante culinário - 1 xícara (chá)</li>
+        <li>Fermento químico em pó - 1 colher (sopa)</li>
+        <li>Raspas de laranja - a gosto</li> 
+    </ul>
+<div="preparando">
+    <h2> Modo de preparo </h2>
+    <ul>
+      <li>Separe as claras das gemas e bata as claras em ponto de neve. Depois junte as gemas, farinha, adoçante, raspas de laranja e misture bem até incorporar.</li>
+      <li>Despeje o suco de laranja e o óleo e mexa bem.</li> 
+      <li>Acrescente o fermento e mexa delicadamente.</li>
+      <li>Separe uma forma com um furo no meio, unte com margarina light ou forre com papel vegetal e despeje a massa por cima.</li>
+      <li>Leve para assar em forno médio pré-aquecido por 30 minutos ou até dourar. Faça o teste do palito. Espere amornar, desenforme e sirva 🤗</li>
+</ul>
+
+</div>
+</body>
+      
+    
+</html>
